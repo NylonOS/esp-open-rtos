@@ -49,3 +49,6 @@
 [submodule "extras/FreeRTOS-Plus-CLI"]
 	path = extras/FreeRTOS-Plus-CLI
 	url = git@github.com:NylonOS/FreeRTOS-Plus-CLI.git
+[submodule "extras/esp-cjson"]
+	path = extras/esp-cjson
+	url = https://github.com/maximkulkin/esp-cjson.git
